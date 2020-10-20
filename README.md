@@ -4,22 +4,22 @@ ASCII art por: https://www.asciiart.eu/weapons/swords
 
 ##                             TEXT-RPG-ADVENTURE
 
-### ===============================================================
-                            ._____l_______l_____.
-                            ||_____/  |  \_____||
-                                  /   |   \
-                                 /    |    \
-                                /     |     \
-                               /      |      \
-                              /       |       \
-                             /        |        \
-                            |         |         |
-                             \        |        /
-                               \      |      /
-                                 \    |    /
-                                   \  |  /
-                                     \|
-### ===============================================================
+### =================================================================
+                                ._____l_______l_____.
+                                ||_____/  |  \_____||
+                                      /   |   \
+                                     /    |    \
+                                    /     |     \
+                                   /      |      \
+                                  /       |       \
+                                 /        |        \
+                                |         |         |
+                                 \        |        /
+                                   \      |      /
+                                     \    |    /
+                                       \  |  /
+                                         \|
+### =================================================================
 
 Um rpg de texto simples em python, baseado no meu  Dom-Juan/TEXT-RPG-ADVENTURE-PYTHON
 
@@ -34,13 +34,13 @@ sendo feito para me ajudar a entender python melhor.
 ão usar mais o console.
 
 ### TODO
-[X] Classes  básicas de personagnes e monstros.
-[X] Loop de combate básico.
-[ ] Mais Game logic.
-[ ] Inventário.
-[ ] Visualizador da "história".
-[ ] Interface de combate completo.
-[ ] Arquivos de save state.
-[ ] Um menu legal.
+- [x] Classes  básicas de personagnes e monstros.
+- [x] Loop de combate básico.
+- [ ] Mais Game logic.
+- [ ] Inventário.
+- [ ] Visualizador da "história".
+- [ ] Interface de combate completo.
+- [ ] Arquivos de save state.
+- [ ] Um menu legal.
 ### TODO
 
