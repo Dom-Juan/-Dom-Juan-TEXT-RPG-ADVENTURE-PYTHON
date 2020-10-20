@@ -4,7 +4,7 @@ ASCII art por: https://www.asciiart.eu/weapons/swords
 
 ##                             TEXT-RPG-ADVENTURE
 
-### =================================================================
+###  ===============================================================
                                 ._____l_______l_____.
                                 ||_____/  |  \_____||
                                       /   |   \
@@ -19,7 +19,7 @@ ASCII art por: https://www.asciiart.eu/weapons/swords
                                      \    |    /
                                        \  |  /
                                          \|
-### =================================================================
+###  ===============================================================
 
 Um rpg de texto simples em python, baseado no meu  Dom-Juan/TEXT-RPG-ADVENTURE-PYTHON
 
