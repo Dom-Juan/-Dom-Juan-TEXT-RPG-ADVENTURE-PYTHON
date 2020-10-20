@@ -1,4 +1,4 @@
-# -Dom-Juan-TEXT-RPG-ADVENTURE-PYTHON
+# TEXT-RPG-ADVENTURE-PYTHON
 
 ASCII art por: https://www.asciiart.eu/weapons/swords
 
